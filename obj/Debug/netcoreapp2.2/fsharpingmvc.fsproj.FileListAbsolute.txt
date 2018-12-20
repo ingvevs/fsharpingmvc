@@ -1,0 +1,10 @@
+/Users/Ingve/Documents/git/fsharpingmvc/bin/Debug/netcoreapp2.2/fsharpingmvc.deps.json
+/Users/Ingve/Documents/git/fsharpingmvc/bin/Debug/netcoreapp2.2/fsharpingmvc.runtimeconfig.json
+/Users/Ingve/Documents/git/fsharpingmvc/bin/Debug/netcoreapp2.2/fsharpingmvc.runtimeconfig.dev.json
+/Users/Ingve/Documents/git/fsharpingmvc/bin/Debug/netcoreapp2.2/fsharpingmvc.dll
+/Users/Ingve/Documents/git/fsharpingmvc/bin/Debug/netcoreapp2.2/fsharpingmvc.pdb
+/Users/Ingve/Documents/git/fsharpingmvc/obj/Debug/netcoreapp2.2/fsharpingmvc.fsprojAssemblyReference.cache
+/Users/Ingve/Documents/git/fsharpingmvc/obj/Debug/netcoreapp2.2/fsharpingmvc.AssemblyInfoInputs.cache
+/Users/Ingve/Documents/git/fsharpingmvc/obj/Debug/netcoreapp2.2/fsharpingmvc.AssemblyInfo.fs
+/Users/Ingve/Documents/git/fsharpingmvc/obj/Debug/netcoreapp2.2/fsharpingmvc.dll
+/Users/Ingve/Documents/git/fsharpingmvc/obj/Debug/netcoreapp2.2/fsharpingmvc.pdb
