@@ -1,0 +1,6 @@
+{
+    "baseUrl": "http://localhost:5000",
+    "testFiles": "**/*.spec.js",
+    "integrationFolder": "./cypress",
+    "chromeWebSecurity": false
+}
